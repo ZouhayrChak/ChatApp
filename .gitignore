@@ -1,3 +1,4 @@
 .dist
 __pycache__
 others
+ChatApp.db
